@@ -11,4 +11,4 @@ Built in response to requests from my Whiteout Survival alliance community.
 
 1. Clone the repo
 2. Create `.env` file storing the TOKEN, ID
-3. `pip install discord, dotenv, os` in the CLI
+3. `pip install discord, dotenv` in the CLI
