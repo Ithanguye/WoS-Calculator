@@ -1,7 +1,7 @@
 # Whiteout Survival Discord Bot
 
 A lightweight, open-source bot for calculating Furnace and Camp upgrade costs in **Whiteout Survival**.
-As suggested by my Alliance master Crushinit.
+Built in response to requests from my Whiteout Survival alliance community.
 
 ## 🛠 Features
 
